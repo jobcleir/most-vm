@@ -1,8 +1,8 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "vm or vl",
+  "description": "vm or vl",
   "keywords": [
-    "vmess or vles"
+    "vm or vl"
   ],
   "env": {
     "PROTOCOL": {
@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/jobcleir/most-vm",
+  "repository": "https://github.com/jobcleir/most-vm",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
